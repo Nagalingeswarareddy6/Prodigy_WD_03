@@ -1,16 +1,26 @@
-Tic-Tac-Toe
+
 🎮 **Tic Tac Toe Web Game**
+
 A responsive Tic Tac Toe game built with HTML, Tailwind CSS, and JavaScript, where you can play:
 
 🧠 Against an AI (Easy, Medium, Hard difficulty)
+
 👥 Against a Friend (2 Player Mode)
+
 🚀 Features
+
 ✅ Playable in Single Player or Two Player mode
+
 🤖 AI Opponent with Easy, Medium, and Hard difficulty levels
+
 🧠 Basic AI Strategy with Random, Blocking, and Winning logic
+
 ✨ Stylish responsive UI using Tailwind CSS
+
 📱 Mobile-friendly layout
+
 🔁 Reset/New Game functionality
+
 🎯 Highlights winning combination
 
 📁 **Project Structure**
